@@ -1,0 +1,36 @@
+_repo: Broad-Sword-and-Single-Stick--13-With-Chapters-on-Quarter-Staff-Bayonet-Cudgel-Shillalah-Walk__31214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Phillipps-Wolley, Clive
+    deathdate: 1918
+    gutenberg_agent_id: '35070'
+    url: http://www.gutenberg.org/2009/agents/35070
+  - agent_name: Headley, Rowland George Allanson-Winn, Baron
+    alias: Allanson-Winn Headley, Rowland George, Baron
+    birthdate: 1855
+    deathdate: 1935
+    gutenberg_agent_id: '35069'
+    url: http://www.gutenberg.org/2009/agents/35069
+    wikipedia: http://en.wikipedia.org/wiki/Rowland_Allanson-Winn,_5th_Baron_Headley
+description: ''
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-defense'
+- !lcsh 'Weapons'
+- !lcc 'GV'
+- !lcsh 'Fencing'
+- !lcsh 'Swords'
+title: "Broad-Sword and Single-Stick\r\nWith Chapters on Quarter-Staff, Bayonet, Cudgel,\
+  \ Shillalah, Walking-Stick, Umbrella and Other Weapons of Self-Defence"
+url: http://www.gutenberg.org/ebooks/31214
