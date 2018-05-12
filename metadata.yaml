@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35069
     wikipedia: http://en.wikipedia.org/wiki/Rowland_Allanson-Winn,_5th_Baron_Headley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31214#Broad-Sword-and-Single-Stick--13-With-Chapters-on-Quarter-Staff-Bayonet-Cudgel-Shillalah-Walk_
 gutenberg_issued: '2010-02-07'
 gutenberg_type: Text
 identifiers:
